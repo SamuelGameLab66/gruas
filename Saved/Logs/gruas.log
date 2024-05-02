@@ -1558,3 +1558,5 @@ Recommended: 516.25
 [2024.05.02-14.52.41:308][919]LogContentBrowser: Renaming the item being created (Deferred Item: Carpeta nueva).
 [2024.05.02-14.52.45:079][372]LogContentBrowser: Attempting asset rename: Carpeta nueva -> Dinamic
 [2024.05.02-14.52.45:079][372]LogContentBrowser: End creating deferred item Carpeta nueva
+[2024.05.02-14.58.57:130][292]LogSlate: Window 'Inicio de sesión del control del código fuente' being destroyed
+[2024.05.02-15.24.47:425][215]LogDerivedDataCache: C:/Users/Creanavarra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.098 and deleted 0 files with total size 0 MiB. Scanned 1715 files in 1709 folders with total size 28 MiB.
