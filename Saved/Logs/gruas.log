@@ -1548,3 +1548,13 @@ Recommended: 516.25
 [2024.05.02-14.41.00:389][929]LogViewport: Scene viewport resized to 1526x449, mode Windowed.
 [2024.05.02-14.41.30:890][435]LogSlate: Window 'Buscador de contenido' being destroyed
 [2024.05.02-14.41.30:893][435]LogSlate: Window 'Buscador de contenido' being destroyed
+[2024.05.02-14.52.26:041][337]LogContentBrowser: Deferred new asset folder creation: Carpeta nueva
+[2024.05.02-14.52.26:052][337]LogContentBrowser: Creating deferred item: Carpeta nueva
+[2024.05.02-14.52.26:059][338]LogContentBrowser: Renaming the item being created (Deferred Item: Carpeta nueva).
+[2024.05.02-14.52.34:279][324]LogContentBrowser: Attempting asset rename: Carpeta nueva -> Static
+[2024.05.02-14.52.34:283][324]LogContentBrowser: End creating deferred item Carpeta nueva
+[2024.05.02-14.52.41:289][918]LogContentBrowser: Deferred new asset folder creation: Carpeta nueva
+[2024.05.02-14.52.41:301][918]LogContentBrowser: Creating deferred item: Carpeta nueva
+[2024.05.02-14.52.41:308][919]LogContentBrowser: Renaming the item being created (Deferred Item: Carpeta nueva).
+[2024.05.02-14.52.45:079][372]LogContentBrowser: Attempting asset rename: Carpeta nueva -> Dinamic
+[2024.05.02-14.52.45:079][372]LogContentBrowser: End creating deferred item Carpeta nueva
